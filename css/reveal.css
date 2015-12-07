@@ -14,7 +14,7 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 .reveal del, .reveal dfn, .reveal em, .reveal img, .reveal ins, .reveal kbd, .reveal q, .reveal s, .reveal samp,
 .reveal small, .reveal strike, .reveal strong, .reveal sub, .reveal sup, .reveal tt, .reveal var,
 .reveal b, .reveal u, .reveal center,
-.reveal dl, .reveal dt, .reveal dd, .reveal ol, .reveal ul, .reveal li,
+.reveal dl, .reveal dt, .reveal dd, .reveal ul, .reveal li,
 .reveal fieldset, .reveal form, .reveal label, .reveal legend,
 .reveal table, .reveal caption, .reveal tbody, .reveal tfoot, .reveal thead, .reveal tr, .reveal th, .reveal td,
 .reveal article, .reveal aside, .reveal canvas, .reveal details, .reveal embed,
@@ -53,7 +53,7 @@ html:-webkit-full-screen-ancestor {
 html:-moz-full-screen-ancestor {
   background-color: inherit; }
   
-.entry-content ol li {list-style-position:inside;}
+
 
 /*********************************************
  * VIEW FRAGMENTS
