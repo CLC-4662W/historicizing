@@ -27,7 +27,10 @@
     display: block;
     margin-left: auto;
     margin-right: auto }
+#TitleSlide{
+	text-align: center
 	
+}	
 	
  
 html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal iframe,
